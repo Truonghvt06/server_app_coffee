@@ -1,0 +1,642 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Nguyen Văn A",
+      "email": "nama@gmail.com",
+      "password": "12345",
+      "address": "Hà Nam",
+      "avata": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWKad_cRNuLZf9SL9IHX0iJ98ESXNQorWw0w&s"
+    },
+    {
+      "id": "2",
+      "name": "Nguyen Văn B",
+      "email": "namb@gmail.com",
+      "password": "12345",
+      "address": "Hà Nam",
+      "avata": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWKad_cRNuLZf9SL9IHX0iJ98ESXNQorWw0w&s"
+    },
+    {
+      "id": "3",
+      "name": "Nguyen Văn C",
+      "email": "namc@gmail.com",
+      "password": "12345",
+      "address": "Hà Nam",
+      "avata": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWKad_cRNuLZf9SL9IHX0iJ98ESXNQorWw0w&s"
+    },
+    {
+      "name": "Hoàng Văn Trường",
+      "email": "truonghv2k4@gmail.com",
+      "password": "12345",
+      "id": "ypzCyZJ"
+    },
+    {
+      "name": "Nguyễn Văn G",
+      "email": "gm@gmail.com",
+      "password": "1234",
+      "id": "NWYudDY"
+    },
+    {
+      "name": "ABCD",
+      "email": "abcd@gmail.com",
+      "password": "123",
+      "id": "pcviYN0"
+    },
+    {
+      "name": "Abc",
+      "email": "abc@gmail.com",
+      "password": "123",
+      "id": "0EenYjo"
+    },
+    {
+      "name": "Hoàng Văn Trường",
+      "email": "truong@gmail.com",
+      "password": "123",
+      "id": "4pQNiNK"
+    },
+    {
+      "name": "Hoàng Văn Trường",
+      "email": "truong@gmail.com",
+      "password": "123",
+      "id": "oGWlFiv"
+    }
+  ],
+  "product": [
+    {
+      "id": "C1",
+      "name": "Americano",
+      "description": "The Americano is another popular type of coffee drink, and it's very easy to make! It's just espresso with hot water dripping over it. The name came about during World War II when European baristas added water to their espresso drinks for the American soldiers stationed there. The resulting drink had a smoother, less concentrated flavour than espresso and thus the Americano was born.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/236x/38/c9/6e/38c96e14461fd300b2dada3fab5f3e9c.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipPpkHAip_jD0FoutbwRES3hIye-ZT9ZbSsnpHnl",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 0
+    },
+    {
+      "id": "C2",
+      "name": "Americano",
+      "description": "The Americano is another popular type of coffee drink, and it's very easy to make! It's just espresso with hot water dripping over it. The name came about during World War II when European baristas added water to their espresso drinks for the American soldiers stationed there. The resulting drink had a smoother, less concentrated flavour than espresso and thus the Americano was born.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/236x/8f/8f/fd/8f8ffd2e29fcd059e1484a7c4180cc22.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipOnj6siJUeyNxAMa86edJA_7hnAAwVqJZBs-Zeb",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 1
+    },
+    {
+      "id": "C3",
+      "name": "Americano",
+      "description": "The Americano is another popular type of coffee drink, and it's very easy to make! It's just espresso with hot water dripping over it. The name came about during World War II when European baristas added water to their espresso drinks for the American soldiers stationed there. The resulting drink had a smoother, less concentrated flavour than espresso and thus the Americano was born.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/236x/9c/9f/f6/9c9ff63305b07898664d0b8f4dbcb689.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipPnEhdNBEKKcfu1e3SOkntLGBsxT66DWXj0p4PY",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 2
+    },
+    {
+      "id": "C4",
+      "name": "Black Coffee",
+      "description": "Black coffee is arguably the most common type of coffee drink out there. Its popularity can be mainly attributed to how easy it is to make this beverage, be it drip, pour-over, French press, or anything else. Black coffee is usually served with no add-ins.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/564x/00/08/56/00085636118b874ba4e88c9952d1af1b.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipNVGBtI18a7drynNTpubHTU4zfLnV8MI1T1InlN",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 3
+    },
+    {
+      "id": "C5",
+      "name": "Black Coffee",
+      "description": "Black coffee is arguably the most common type of coffee drink out there. Its popularity can be mainly attributed to how easy it is to make this beverage, be it drip, pour-over, French press, or anything else. Black coffee is usually served with no add-ins.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/736x/11/22/c9/1122c91ddc747867a0f34ab95d106b8f.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipNA_eXpMEhv59uKDYOZbSB3xjOJ_j1cAnL3gd_B",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 4
+    },
+    {
+      "id": "C6",
+      "name": "Black Coffee",
+      "description": "Black coffee is arguably the most common type of coffee drink out there. Its popularity can be mainly attributed to how easy it is to make this beverage, be it drip, pour-over, French press, or anything else. Black coffee is usually served with no add-ins.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/564x/88/40/21/88402184f9a72c065eaaad2bdd7fe07e.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipNX4N-OTik-rd8AqYC0iz9EvR79_PsmvL7B37P_",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 5
+    },
+    {
+      "id": "C7",
+      "name": "Cappuccino",
+      "description": "Cappuccinos are a classic Italian type of coffee drink made of espresso, steamed milk, and thick foam in equal parts. The name comes from the resemblance to the hoods worn by Capuchin monks. Making cappuccino is relatively easy and can be done at home too if you know how to make espresso.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/564x/38/d5/90/38d5902ce335fe0d048fb779b0abea23.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipNlikpm7vmOJe8xRZ4hJV2kBvHfzkNtZJBUVl1_",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 6
+    },
+    {
+      "id": "C8",
+      "name": "Cappuccino",
+      "description": "Cappuccinos are a classic Italian type of coffee drink made of espresso, steamed milk, and thick foam in equal parts. The name comes from the resemblance to the hoods worn by Capuchin monks. Making cappuccino is relatively easy and can be done at home too if you know how to make espresso.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/236x/6e/ca/98/6eca98f8c6ebe6d393b2413e5e37e3a7.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipN_flN-pn4cI4DE9t3CM9tsre3mCFxLPcItoyq0",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 7
+    },
+    {
+      "id": "C9",
+      "name": "Cappuccino",
+      "description": "Cappuccinos are a classic Italian type of coffee drink made of espresso, steamed milk, and thick foam in equal parts. The name comes from the resemblance to the hoods worn by Capuchin monks. Making cappuccino is relatively easy and can be done at home too if you know how to make espresso.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/564x/ef/41/49/ef414993e03bd88f09abf0259bdb562d.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipPOh_-qdomw5GuY_aiyWFKDWyNHDisZFTpMDzZW",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 8
+    },
+    {
+      "id": "C10",
+      "name": "Espresso",
+      "description": "Espresso is made by forcing nearly boiling water through finely-ground coffee beans, which results in a concentrated, syrup-like coffee drink. This is the base for many Italian beverages in coffee shops. When compared to regular brewed coffee, espresso is much stronger than the other types of coffee drinks. Espressos are enjoyed in shots where a single shot is one ounce and a long (single and double) shot is two ounces in amount, respectively.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/564x/29/7c/8e/297c8ea6ee897c728294f846898de259.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipNhLMdSjzmZ3MPS-vUoZ2srqT8024qRpuZx5TMQ",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 9
+    },
+    {
+      "id": "C11",
+      "name": "Espresso",
+      "description": "Espresso is made by forcing nearly boiling water through finely-ground coffee beans, which results in a concentrated, syrup-like coffee drink. This is the base for many Italian beverages in coffee shops. When compared to regular brewed coffee, espresso is much stronger than the other types of coffee drinks. Espressos are enjoyed in shots where a single shot is one ounce and a long (single and double) shot is two ounces in amount, respectively.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/236x/dd/7a/a7/dd7aa78fbbc5428d2c970059fa09c3b8.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipNJtjYqlc6gJE-pK2_4J0BAzZepLQPmx9j-HV46",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 10
+    },
+    {
+      "id": "C12",
+      "name": "Espresso",
+      "description": "Espresso is made by forcing nearly boiling water through finely-ground coffee beans, which results in a concentrated, syrup-like coffee drink. This is the base for many Italian beverages in coffee shops. When compared to regular brewed coffee, espresso is much stronger than the other types of coffee drinks. Espressos are enjoyed in shots where a single shot is one ounce and a long (single and double) shot is two ounces in amount, respectively.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/236x/d6/32/65/d6326506d34b590b82be89adf491af48.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipMtHB4zNn5xI72cNi5eBcTv-B1Wj1oemEtZ7tkc",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 11
+    },
+    {
+      "id": "C13",
+      "name": "Latte",
+      "description": "A latte is an espresso with steamed milk and a dollop of milk foam on top. This beverage is more prevalent in America than other coffee drinks like cappuccinos because it contains less foam, making it smoother and gentler for those with sensitive palettes. And if you want to spice up your latte, add some flavouring syrup. To make an iced version of this drink, simply pour espresso and steamed milk over ice cubes.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/236x/8b/f5/69/8bf5698071e7fbd19d494ed98089d280.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipMrx1Trimz0i2CmHuJyz4uqbXtyoZA8mS3oKiUB",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 12
+    },
+    {
+      "id": "C14",
+      "name": "Latte",
+      "description": "A latte is an espresso with steamed milk and a dollop of milk foam on top. This beverage is more prevalent in America than other coffee drinks like cappuccinos because it contains less foam, making it smoother and gentler for those with sensitive palettes. And if you want to spice up your latte, add some flavouring syrup. To make an iced version of this drink, simply pour espresso and steamed milk over ice cubes.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/564x/a1/b2/01/a1b2016ca5fa4fcb4bc8804369092c8f.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipOftaa1mAnFAgsVbDkaI-aMT-iRP4QLi-2fr0Cg",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 13
+    },
+    {
+      "id": "C15",
+      "name": "Latte",
+      "description": "A latte is an espresso with steamed milk and a dollop of milk foam on top. This beverage is more prevalent in America than other coffee drinks like cappuccinos because it contains less foam, making it smoother and gentler for those with sensitive palettes. And if you want to spice up your latte, add some flavouring syrup. To make an iced version of this drink, simply pour espresso and steamed milk over ice cubes.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/236x/ee/eb/34/eeeb34cff3910abe89555dedce897cc3.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipO9vVkV3V6w5uoHyIeMOIAFApJNDZRY1msdxKxM",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 14
+    },
+    {
+      "id": "C16",
+      "name": "Macchiato",
+      "description": "The word 'macchiato' means spotted, so a macchiato espresso is an espresso with a splash of milk. Most coffee shops will top off this type of coffee drink with some foamed milk instead of just steamed milk for what's known as a traditional macchiato.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/564x/75/54/f1/7554f1f9720d67d19653a4198a36364a.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipN8N5SFR-JbQObUxHx7yb9T-Ri2oGwvc155Em2Z",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 15
+    },
+    {
+      "id": "C17",
+      "name": "Macchiato",
+      "description": "The word 'macchiato' means spotted, so a macchiato espresso is an espresso with a splash of milk. Most coffee shops will top off this type of coffee drink with some foamed milk instead of just steamed milk for what's known as a traditional macchiato.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/236x/fa/fc/7f/fafc7f38c0dcd7950a0d2be849316a00.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipP0J2i3f_4f4LxsHy1YEZ7SUhQ9nr4YUir1JEw5",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 16
+    },
+    {
+      "id": "C18",
+      "name": "Macchiato",
+      "description": "The word 'macchiato' means spotted, so a macchiato espresso is an espresso with a splash of milk. Most coffee shops will top off this type of coffee drink with some foamed milk instead of just steamed milk for what's known as a traditional macchiato.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "https://i.pinimg.com/564x/ea/49/85/ea49852e3cb9dc93b3c030b28744e3dc.jpg",
+      "imagelink_portrait": "https://photos.google.com/photo/AF1QipPG8xXf6LBvIWEqWNBwwUNfHNaML3mLnegOJIrE",
+      "ingredients": "Milk",
+      "special_ingredient": "With Steamed Milk",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Coffee",
+      "index": 17
+    }
+  ]
+}
